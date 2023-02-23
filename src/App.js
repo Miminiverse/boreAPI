@@ -42,7 +42,7 @@ function App() {
 
   useEffect(() => {
     getData()
-  }, [act])
+  }, [])
 
 
   return (
